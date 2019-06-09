@@ -1,6 +1,8 @@
 # AlbricsBot
 
-Albums and Lyrics listing WhatsApp bot!
+Albrics serves two functionalities:
+* Lists lyrics of a song
+* Lists albums of the music-artist
 
 ## To Start
 
@@ -14,3 +16,4 @@ Albums and Lyrics listing WhatsApp bot!
 * Dialogflow
 * Flask
 * Pylyrics
+* Heroku
