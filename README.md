@@ -2,4 +2,15 @@
 
 Albums and Lyrics listing WhatsApp bot!
 
-Send a WhatsApp message to +14155238886 with code join made-bowl.
+## To Start
+
+* Save the number +14155238886
+* Send message *join made-bowl*
+
+## Technologies Used
+
+* Twilio
+* MongoDB
+* Dialogflow
+* Flask
+* Pylyrics
